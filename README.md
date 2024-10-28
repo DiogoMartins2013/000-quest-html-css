@@ -1,4 +1,4 @@
-Esee projeto é uma Página responsiva que se destaca pelo design limpo e intuitvo, com ícones modernos. A interface é projetada para funcionar em dispositivos desktop quanto em dispositivos móveis, sendo totalmente 
+Esse projeto é uma Página responsiva que se destaca pelo design limpo e intuitvo, com ícones modernos. A interface é projetada para funcionar em dispositivos desktop quanto em dispositivos móveis, sendo totalmente 
 responsivo.
 Descrição: A página foi desenvolvida utilizando HTML5 e CSS3 com foco em design moderno e intuitivo.
 
